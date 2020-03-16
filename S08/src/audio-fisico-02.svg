@@ -9,8 +9,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="137.55721mm"
-   height="99.771324mm"
-   viewBox="0 0 137.55721 99.771317"
+   height="79.078423mm"
+   viewBox="0 0 137.55721 79.078417"
    version="1.1"
    id="svg8"
    inkscape:version="1.0alpha (9dee831, 2019-01-15)"
@@ -904,9 +904,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70417139"
-     inkscape:cx="249.17958"
-     inkscape:cy="264.96582"
+     inkscape:zoom="1.0501514"
+     inkscape:cx="323.69016"
+     inkscape:cy="175.99056"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -931,7 +931,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -939,15 +939,15 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(-4.5162616,-32.614491)">
+     transform="translate(-4.5162616,-41.222389)">
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.569121;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.569121, 2.27647;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.506677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.506677, 2.02669;stroke-dashoffset:0;stroke-opacity:1"
        id="rect14226"
        width="137.55721"
-       height="99.771324"
+       height="79.078423"
        x="4.5162616"
-       y="32.614491"
-       ry="0.52714455"
+       y="41.222389"
+       ry="0.41781303"
        inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S08/audio-02.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -1018,7 +1018,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-4.5162616,-32.614491)">
+     transform="translate(-4.5162616,-41.222389)">
     <g
        transform="matrix(0.26458333,0,0,0.26458333,57.431444,-70.794624)"
        style="display:none"
