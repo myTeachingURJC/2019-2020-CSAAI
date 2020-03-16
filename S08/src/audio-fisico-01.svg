@@ -793,9 +793,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="248.30875"
-     inkscape:cx="488.24158"
-     inkscape:zoom="0.37232875"
+     inkscape:cy="275.54444"
+     inkscape:cx="826.71247"
+     inkscape:zoom="0.52655236"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -836,6 +836,14 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S08/audio-01.png"
+       inkscape:connector-curvature="0"
+       id="path1500"
+       d="M 140.73771,126.2976 V 110.00044"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1,3;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -895,7 +903,7 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path1696-9"
-       d="M 150.98665,115.43974 H 128.10593"
+       d="M 151.23905,107.07199 H 128.35833"
        style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend-3-9-7)" />
     <circle
        inkscape:export-ydpi="90"
@@ -976,7 +984,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S08/audio-01.png"
-       transform="translate(171.99792,-87.16444)"
+       transform="translate(174.93594,-93.448899)"
        id="g1448">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1028,6 +1036,72 @@
          x="136.22488"
          sodipodi:role="line"
          id="tspan1475-1">Vibración</tspan></text>
+    <path
+       d="m 149.86623,122.8167 a 8.0973949,7.9347515 0 0 1 0.23006,10.82867"
+       sodipodi:arc-type="arc"
+       sodipodi:open="true"
+       sodipodi:end="0.7303694"
+       sodipodi:start="5.5111842"
+       sodipodi:ry="7.9347515"
+       sodipodi:rx="8.0973949"
+       sodipodi:cy="128.35175"
+       sodipodi:cx="144.06432"
+       sodipodi:type="arc"
+       id="path1405-7-7"
+       style="fill:none;stroke:#0000ff;stroke-width:0.908226;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S08/audio-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.908226;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1405-7-5-0"
+       sodipodi:type="arc"
+       sodipodi:cx="143.00215"
+       sodipodi:cy="128.45601"
+       sodipodi:rx="6.1359367"
+       sodipodi:ry="6.1559834"
+       sodipodi:start="5.5111842"
+       sodipodi:end="0.7303694"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 147.39865,124.16178 a 6.1359367,6.1559834 0 0 1 0.17433,8.40116"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S08/audio-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="scale(-1,1)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S08/audio-01.png"
+       style="fill:none;stroke:#0000ff;stroke-width:0.908227;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1405-7-7-9"
+       sodipodi:type="arc"
+       sodipodi:cx="-137.34474"
+       sodipodi:cy="128.35175"
+       sodipodi:rx="8.0973949"
+       sodipodi:ry="7.9347515"
+       sodipodi:start="5.5111842"
+       sodipodi:end="0.7303694"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m -131.54283,122.8167 a 8.0973949,7.9347515 0 0 1 0.23006,10.82867" />
+    <path
+       transform="scale(-1,1)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S08/audio-01.png"
+       d="m -134.01041,124.16178 a 6.1359367,6.1559839 0 0 1 0.17434,8.40116"
+       sodipodi:arc-type="arc"
+       sodipodi:open="true"
+       sodipodi:end="0.7303694"
+       sodipodi:start="5.5111842"
+       sodipodi:ry="6.1559839"
+       sodipodi:rx="6.1359367"
+       sodipodi:cy="128.45601"
+       sodipodi:cx="-138.40691"
+       sodipodi:type="arc"
+       id="path1405-7-5-0-3"
+       style="fill:none;stroke:#0000ff;stroke-width:0.908227;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
   <style
      id="style2"
