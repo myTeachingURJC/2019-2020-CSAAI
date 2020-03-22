@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0alpha (9dee831, 2019-01-15)"
+   sodipodi:docname="audio-04.svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 604.89032 279.10095"
+   height="1054.8698"
+   width="2286.1997">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3316"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#c87137;fill-opacity:1;fill-rule:evenodd;stroke:#c87137;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3314" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1015" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1171" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1171-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-7-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1171-5-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-7-0-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1171-5-6-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3316-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#c87137;fill-opacity:1;fill-rule:evenodd;stroke:#c87137;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3314-3" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-2-5-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1171-6-3-8" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-7-0-5-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1171-5-6-6-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-2-5-7-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1171-6-3-8-9" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-7-0-5-4-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1171-5-6-6-5-0"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3316-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#c87137;fill-opacity:1;fill-rule:evenodd;stroke:#c87137;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3314-36" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3316-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3314-9" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3316-3-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3314-9-8" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3316-3-8-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3314-9-8-9" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3316-3-8-0-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3314-9-8-9-8" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3316-3-8-0-3-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3314-9-8-9-8-1" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3316-3-8-0-3-6-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3314-9-8-9-8-1-9" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3316-3-8-0-3-6-5-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3314-9-8-9-8-1-9-8" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3316-3-8-0-3-6-5-4-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3314-9-8-9-8-1-9-8-3" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     units="px"
+     inkscape:document-rotation="0"
+     inkscape:snap-global="false"
+     inkscape:snap-object-midpoints="false"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="1107"
+     inkscape:window-x="67"
+     inkscape:window-height="1025"
+     inkscape:window-width="1853"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     showgrid="false"
+     inkscape:current-layer="layer2"
+     inkscape:document-units="mm"
+     inkscape:cy="547.69129"
+     inkscape:cx="1085.5401"
+     inkscape:zoom="0.35"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(1112.9103,153.59163)"
+     inkscape:label="back"
+     id="layer4"
+     inkscape:groupmode="layer">
+    <rect
+       rx="2.1014555"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       ry="2.1014555"
+       y="-153.59163"
+       x="-1112.9103"
+       height="279.10095"
+       width="604.89032"
+       id="rect3304"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.425472;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+  <g
+     transform="translate(1112.9103,153.59163)"
+     style="display:inline"
+     inkscape:label="axes"
+     id="layer3"
+     inkscape:groupmode="layer">
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-5-2"
+       y="-110.4044"
+       x="-1067.5363"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.26923px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.151226"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.151226"
+         y="-110.4044"
+         x="-1067.5363"
+         id="tspan3245-9-2"
+         sodipodi:role="line">(Voltaje)</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-5-2-9-2"
+       y="-111.96143"
+       x="-851.26556"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.26923px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.151226"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.151226"
+         y="-111.96143"
+         x="-851.26556"
+         id="tspan3245-9-2-4-9"
+         sodipodi:role="line">Niveles</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-5-2-9-2-6"
+       y="-126.04082"
+       x="-549.28699"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.26923px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.151226"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.151226"
+         y="-126.04082"
+         x="-549.28699"
+         id="tspan3245-9-2-4-9-0"
+         sodipodi:role="line">Muestra</tspan><tspan
+         id="tspan15392"
+         style="stroke-width:0.151226"
+         y="-116.95428"
+         x="-549.28699"
+         sodipodi:role="line">(Binario)</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-5-9-4"
+       y="95.254974"
+       x="-945.28876"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.1171px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.189669"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.189669"
+         y="95.254974"
+         x="-945.28876"
+         id="tspan3245-9-4-8"
+         sodipodi:role="line">Señal eléctrica discreta</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-5-9-4-8"
+       y="95.254974"
+       x="-704.48273"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.1171px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.189669"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.189669"
+         y="95.254974"
+         x="-704.48273"
+         id="tspan3245-9-4-8-8"
+         sodipodi:role="line">números en binario</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-5-9-4-8-9"
+       y="70.980186"
+       x="-735.3551"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.1171px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.189669"
+       xml:space="preserve"><tspan
+         style="fill:#008000;stroke-width:0.189669"
+         y="70.980186"
+         x="-735.3551"
+         id="tspan3245-9-4-8-8-7"
+         sodipodi:role="line">000</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-5-9-4-8-9-7"
+       y="70.980186"
+       x="-713.04077"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.1171px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.189669"
+       xml:space="preserve"><tspan
+         style="fill:#008000;stroke-width:0.189669"
+         y="70.980186"
+         x="-713.04077"
+         id="tspan3245-9-4-8-8-7-6"
+         sodipodi:role="line">010</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-5-9-4-8-9-7-4"
+       y="70.980186"
+       x="-691.75629"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.1171px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.189669"
+       xml:space="preserve"><tspan
+         style="fill:#008000;stroke-width:0.189669"
+         y="70.980186"
+         x="-691.75629"
+         id="tspan3245-9-4-8-8-7-6-3"
+         sodipodi:role="line">011</tspan></text>
+  </g>
+  <g
+     style="display:inline"
+     transform="translate(1063.6644,186.63094)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="continuous" />
+  <g
+     transform="translate(1112.9103,153.59163)"
+     style="display:inline"
+     inkscape:label="samples"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path7978"
+       d="m -1088.7966,-94.303566 h 518.02436"
+       style="fill:none;stroke:#000000;stroke-width:0.424809;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.424809, 3.39847;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path7978-1"
+       d="m -1088.7966,-76.985198 h 518.02436"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.424809;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.424809, 3.39847;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path7978-1-7"
+       d="m -1088.7966,-59.666827 h 518.02436"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.424809;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.424809, 3.39847;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path7978-1-7-7"
+       d="m -1088.7966,-42.348459 h 518.02436"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.424809;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.424809, 3.39847;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path7978-1-7-1"
+       d="m -1088.7966,-25.030091 h 518.02436"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.424809;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.424809, 3.39847;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path7978-1-7-15"
+       d="m -1088.7966,-7.7117219 h 518.02436"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.424809;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.424809, 3.39847;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path7978-1-7-9"
+       d="m -1088.7966,9.606646 h 518.02436"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.424809;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.424809, 3.39847;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path7978-1-7-77"
+       d="m -1088.7966,26.925009 h 518.02436"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.424809;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.424809, 3.39847;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       rx="2.2198505"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       ry="2.2198505"
+       y="20.288597"
+       x="-815.61456"
+       height="10.845418"
+       width="14.964988"
+       id="rect15159-7-8-5-7-4-1-8"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.825725;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       rx="2.2198505"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       ry="2.2198505"
+       y="2.9520705"
+       x="-815.61456"
+       height="10.845418"
+       width="14.964988"
+       id="rect15159-7-8-5-7-4-1"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.825725;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       rx="2.2198505"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       ry="2.2198505"
+       y="-13.526211"
+       x="-815.61456"
+       height="10.845418"
+       width="14.964988"
+       id="rect15159-7-8-5-7-4"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.825725;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       rx="2.2198505"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       ry="2.2198505"
+       y="-31.034389"
+       x="-815.61456"
+       height="10.845418"
+       width="14.964988"
+       id="rect15159-7-8-5-7"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.825725;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       rx="2.2198505"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       ry="2.2198505"
+       y="-48.199268"
+       x="-812.86823"
+       height="10.845418"
+       width="12.218607"
+       id="rect15159-7-8-5"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.746117;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       rx="2.2198505"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       ry="2.2198505"
+       y="-64.334259"
+       x="-812.86823"
+       height="10.845418"
+       width="12.218607"
+       id="rect15159-7-8"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.746117;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       rx="2.2198505"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       ry="2.2198505"
+       y="-82.700676"
+       x="-812.86823"
+       height="10.845418"
+       width="12.218607"
+       id="rect15159-7"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.746117;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       rx="2.2198505"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       ry="2.2198505"
+       y="-100.03721"
+       x="-812.86823"
+       height="10.845418"
+       width="12.218607"
+       id="rect15159"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.746117;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       rx="0.92733884"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       ry="0.92733884"
+       y="55.264088"
+       x="-878.26404"
+       height="45.563122"
+       width="110.74643"
+       id="rect8049"
+       style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:0.424809;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text890"
+       y="82.309036"
+       x="-822.57446"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.218px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.332756"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.332756"
+         y="82.309036"
+         x="-822.57446"
+         id="tspan888"
+         sodipodi:role="line">Cuantificación</tspan></text>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path894"
+       d="m -956.79761,78.134235 h 78.18762"
+       style="fill:none;stroke:#000000;stroke-width:0.904978;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3306"
+       d="M -986.393,-3.0105077 -942.38993,68.52835"
+       style="fill:none;stroke:#c87137;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3316)" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-3-1-0"
+       y="-29.274435"
+       x="-583.31921"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7491px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265229"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.265229"
+         y="-29.274435"
+         x="-583.31921"
+         id="tspan3245-7-2-3"
+         sodipodi:role="line">t</tspan></text>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path1142-3-2-0"
+       d="m -792.44669,-42.348469 h 210.30864"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.795686;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-7-0-5-4)" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path1142-9-6"
+       d="M -792.45043,26.925009 V -104.66097"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.795686;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-2-5-7)" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path1945-1-9-6"
+       d="m -721.96266,-77.124669 v 34.898054"
+       style="display:inline;fill:none;stroke:#008000;stroke-width:0.661922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path1945-6-3-1"
+       d="m -746.36277,-94.387617 v 52.161005"
+       style="display:inline;fill:none;stroke:#008000;stroke-width:0.795686;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       r="2.0094094"
+       cy="-42.348461"
+       cx="-792.44672"
+       id="path1874-5-6-5"
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.795686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       r="2.0094094"
+       cy="-77.003296"
+       cx="-721.96265"
+       id="path1874-2-6-4"
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.795686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       r="2.0094094"
+       cy="-42.348461"
+       cx="-700.2818"
+       id="path1874-9-2-7"
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.795686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       r="2.0094094"
+       cy="-42.348461"
+       cx="-608.11688"
+       id="path1874-93-7-9"
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.795686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path1945-9-3"
+       d="m -769.40473,-77.124659 v 34.898047"
+       style="display:inline;fill:none;stroke:#008000;stroke-width:0.656349;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-8-5"
+       y="-117.92745"
+       x="-1067.2672"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8461px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.246444"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.246444"
+         y="-117.92745"
+         x="-1067.2672"
+         id="tspan3245-97-2"
+         sodipodi:role="line">V</tspan></text>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path1945-1-9-6-6"
+       d="M -629.7992,-7.5972213 V -42.348459"
+       style="display:inline;fill:none;stroke:#008000;stroke-width:0.661922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path1945-6-3-1-8"
+       d="M -654.19931,9.2929799 V -42.348459"
+       style="display:inline;fill:none;stroke:#008000;stroke-width:0.795686;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       transform="scale(1,-1)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       r="2.0094094"
+       cy="7.6683211"
+       cx="-629.79919"
+       id="path1874-2-6-4-4"
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.795686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path1945-9-3-3"
+       d="M -677.24127,-7.5825094 V -42.348459"
+       style="display:inline;fill:none;stroke:#008000;stroke-width:0.656349;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       transform="scale(1,-1)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       r="2.0094094"
+       cy="7.7541451"
+       cx="-677.24127"
+       id="path1874-20-7-1"
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.795686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-3-1-0-6"
+       y="-29.274427"
+       x="-857.95728"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7491px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265229"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.265229"
+         y="-29.274427"
+         x="-857.95728"
+         id="tspan3245-7-2-3-8"
+         sodipodi:role="line">t</tspan></text>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path1142-3-2-0-9"
+       d="m -1067.0848,-42.348466 h 210.30869"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.795686;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-7-0-5-4-2)" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path1142-9-6-2"
+       d="M -1067.0809,26.925009 V -103.46453"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.795686;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-2-5-7-4)" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path1945-1-9-6-64"
+       d="m -996.60072,-71.055963 v 28.829355"
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.661922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path1945-6-3-1-9"
+       d="m -1021.0008,-88.804408 v 46.5778"
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.795686;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       r="2.0094094"
+       cy="-88.844917"
+       cx="-1021.0009"
+       id="path1874-6-0-5-0"
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.795686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       r="2.0094094"
+       cy="-70.813217"
+       cx="-996.60077"
+       id="path1874-2-6-4-48"
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.795686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path1945-9-3-7"
+       d="m -1044.0428,-70.813206 v 28.586598"
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.656349;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       r="2.0094094"
+       cy="-70.813217"
+       cx="-1044.0428"
+       id="path1874-20-7-2"
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.795686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path1945-1-9-6-6-5"
+       d="M -904.43727,-13.519098 V -42.348456"
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.661922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path1945-6-3-1-8-9"
+       d="M -928.83738,4.2293415 V -42.348456"
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.795686;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       transform="scale(1,-1)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       r="2.0094094"
+       cy="-4.2698646"
+       cx="-928.8374"
+       id="path1874-6-0-5-8-4"
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.795686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       transform="scale(1,-1)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       r="2.0094094"
+       cy="13.761851"
+       cx="-904.43726"
+       id="path1874-2-6-4-4-9"
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.795686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path1945-9-3-3-0"
+       d="m -951.87934,-13.761856 v -28.5866"
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.656349;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       transform="scale(1,-1)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       r="2.0094094"
+       cy="13.761851"
+       cx="-951.87933"
+       id="path1874-20-7-1-9"
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.795686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       r="2.0094094"
+       cy="-94.185379"
+       cx="-746.36279"
+       id="path1874-6-0-5"
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.795686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       r="2.0094094"
+       cy="-77.003296"
+       cx="-769.40472"
+       id="path1874-20-7"
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.795686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       transform="scale(1,-1)"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       r="2.0094094"
+       cy="-9.4193134"
+       cx="-654.19934"
+       id="path1874-6-0-5-8"
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.795686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       r="2.0094094"
+       cy="-42.348454"
+       cx="-1067.0847"
+       id="path1874-5-6-5-5"
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.795686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       r="2.0094094"
+       cy="-42.348454"
+       cx="-974.91986"
+       id="path1874-9-2-7-7"
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.795686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       r="2.0094094"
+       cy="-42.348454"
+       cx="-882.75494"
+       id="path1874-93-7-9-1"
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.795686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       inkscape:connector-curvature="0"
+       id="path894-6"
+       d="m -767.14533,78.134235 h 78.18762"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.904978;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3306-5"
+       d="m -757.39157,69.63806 44.00309,-71.5388623"
+       style="display:inline;fill:none;stroke:#c87137;stroke-width:1.05833333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3316-7)" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-8-5-6-8"
+       y="-38.549564"
+       x="-806.57599"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8461px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.246444"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.246444"
+         y="-38.549564"
+         x="-806.57599"
+         id="tspan3245-97-2-3-1"
+         sodipodi:role="line">0</tspan></text>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3306-0"
+       d="m -851.3077,-109.03574 16.53928,13.52157"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.424809;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3316-3)" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3306-0-5"
+       d="m -851.3077,-109.03574 16.53928,29.828204"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.424809;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3316-3-8)" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3306-0-5-6"
+       d="m -851.3077,-109.03574 16.88257,48.194626"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.424809;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3316-3-8-0)" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3306-0-5-6-5"
+       d="m -851.3077,-109.03574 16.88257,66.157983"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.424809;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3316-3-8-0-3)" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3306-0-5-6-5-1"
+       d="m -851.3077,-109.03573 16.88257,82.907594"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.424809;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3316-3-8-0-3-6)" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3306-0-5-6-5-1-8"
+       d="m -851.3077,-109.03574 16.88257,100.6282099"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.424809;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3316-3-8-0-3-6-5)" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3306-0-5-6-5-1-8-1"
+       d="M -851.3077,-109.03573 -834.42513,9.0703246"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.424809;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3316-3-8-0-3-6-5-4)" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3306-0-5-6-5-1-8-1-0"
+       d="m -851.3077,-109.03573 16.88257,134.612924"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.424809;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3316-3-8-0-3-6-5-4-0)" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-8-5-6-8-4"
+       y="-55.056431"
+       x="-806.57599"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8461px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.246444"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.246444"
+         y="-55.056431"
+         x="-806.57599"
+         id="tspan3245-97-2-3-1-4"
+         sodipodi:role="line">1</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-8-5-6-8-4-4"
+       y="-72.777039"
+       x="-806.57599"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8461px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.246444"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.246444"
+         y="-72.777039"
+         x="-806.57599"
+         id="tspan3245-97-2-3-1-4-4"
+         sodipodi:role="line">2</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-8-5-6-8-4-4-7"
+       y="-90.497643"
+       x="-806.57599"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8461px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.246444"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.246444"
+         y="-90.497643"
+         x="-806.57599"
+         id="tspan3245-97-2-3-1-4-4-6"
+         sodipodi:role="line">3</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-8-5-6-8-4-3"
+       y="-21.314449"
+       x="-808.51801"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8461px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.246444"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.246444"
+         y="-21.314449"
+         x="-808.51801"
+         id="tspan3245-97-2-3-1-4-1"
+         sodipodi:role="line">-1</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-8-5-6-8-4-3-7"
+       y="-4.322083"
+       x="-808.51801"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8461px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.246444"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.246444"
+         y="-4.322083"
+         x="-808.51801"
+         id="tspan3245-97-2-3-1-4-1-5"
+         sodipodi:role="line">-2</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-8-5-6-8-4-3-7-9"
+       y="12.427526"
+       x="-808.51801"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8461px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.246444"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.246444"
+         y="12.427526"
+         x="-808.51801"
+         id="tspan3245-97-2-3-1-4-1-5-6"
+         sodipodi:role="line">-3</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-8-5-6-8-4-3-7-9-2"
+       y="30.14813"
+       x="-808.51801"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8461px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.246444"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.246444"
+         y="30.14813"
+         x="-808.51801"
+         id="tspan3245-97-2-3-1-4-1-5-6-1"
+         sodipodi:role="line">-4</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-8-5-6-8-4-4-7-5"
+       y="-90.497643"
+       x="-547.80652"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8461px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.246444"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.246444"
+         y="-90.497643"
+         x="-547.80652"
+         id="tspan3245-97-2-3-1-4-4-6-9"
+         sodipodi:role="line">011</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-8-5-6-8-4-4-7-5-7"
+       y="-38.549561"
+       x="-547.80652"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8461px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.246444"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.246444"
+         y="-38.549561"
+         x="-547.80652"
+         id="tspan3245-97-2-3-1-4-4-6-9-5"
+         sodipodi:role="line">000</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-8-5-6-8-4-4-7-5-7-3"
+       y="-54.813679"
+       x="-547.80652"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8461px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.246444"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.246444"
+         y="-54.813679"
+         x="-547.80652"
+         id="tspan3245-97-2-3-1-4-4-6-9-5-8"
+         sodipodi:role="line">001</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-8-5-6-8-4-4-7-5-7-3-8"
+       y="-73.019783"
+       x="-547.80652"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8461px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.246444"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.246444"
+         y="-73.019783"
+         x="-547.80652"
+         id="tspan3245-97-2-3-1-4-4-6-9-5-8-3"
+         sodipodi:role="line">010</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-8-5-6-8-4-4-7-5-1"
+       y="-21.071701"
+       x="-547.80652"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8461px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.246444"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.246444"
+         y="-21.071701"
+         x="-547.80652"
+         id="tspan3245-97-2-3-1-4-4-6-9-8"
+         sodipodi:role="line">111</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-8-5-6-8-4-4-7-5-7-9"
+       y="30.876379"
+       x="-547.80652"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8461px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.246444"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.246444"
+         y="30.876379"
+         x="-547.80652"
+         id="tspan3245-97-2-3-1-4-4-6-9-5-6"
+         sodipodi:role="line">100</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-8-5-6-8-4-4-7-5-7-3-4"
+       y="14.612266"
+       x="-547.80652"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8461px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.246444"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.246444"
+         y="14.612266"
+         x="-547.80652"
+         id="tspan3245-97-2-3-1-4-4-6-9-5-8-33"
+         sodipodi:role="line">101</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-04.png"
+       id="text3247-8-5-6-8-4-4-7-5-7-3-8-3"
+       y="-3.5938337"
+       x="-547.80652"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.8461px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.246444"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.246444"
+         y="-3.5938337"
+         x="-547.80652"
+         id="tspan3245-97-2-3-1-4-4-6-9-5-8-3-8"
+         sodipodi:role="line">110</tspan></text>
+  </g>
+</svg>
