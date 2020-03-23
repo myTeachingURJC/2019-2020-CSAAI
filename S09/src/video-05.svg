@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="180.72769mm"
+   height="139.25911mm"
+   viewBox="0 0 180.72769 139.25911"
+   version="1.1"
+   id="svg92566"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="video-05.svg">
+  <defs
+     id="defs92560">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path99169"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path99169-7"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-5-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path99169-7-7"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <linearGradient
+       id="linearGradient26491">
+      <stop
+         id="stop26493"
+         offset="0"
+         style="stop-color:#efefef;stop-opacity:1;" />
+      <stop
+         id="stop26495"
+         offset="1"
+         style="stop-color:#efefef;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient25510">
+      <stop
+         style="stop-color:#efefef;stop-opacity:0;"
+         offset="0"
+         id="stop25512" />
+      <stop
+         style="stop-color:#efefef;stop-opacity:1;"
+         offset="1"
+         id="stop25514" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient28439">
+      <stop
+         id="stop28441"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop28443"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient9304">
+      <stop
+         style="stop-color:#fdffff;stop-opacity:1;"
+         offset="0"
+         id="stop9306" />
+      <stop
+         style="stop-color:#f2f2f2;stop-opacity:1;"
+         offset="1"
+         id="stop9308" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="224.77604"
+     inkscape:cy="-9.796285"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="1107"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-others="true"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata92563">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(-109.37022,-145.99106)"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.79375005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect101425"
+       width="180.72769"
+       height="139.25911"
+       x="109.37022"
+       y="145.99106"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/video-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.03207016px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="153.56952"
+       y="156.53374"
+       id="text109458"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/video-05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan109456"
+         x="153.56952"
+         y="156.53374"
+         style="stroke-width:0.26458332">Construcción de colores  </tspan><tspan
+         sodipodi:role="line"
+         x="153.56952"
+         y="165.32382"
+         style="stroke-width:0.26458332"
+         id="tspan109460">por síntesis aditiva</tspan></text>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-109.37022,-145.99106)"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#000000;stroke-width:0.26458329"
+       y="170.01811"
+       x="140.99857"
+       width="65.685837%"
+       height="81.64151%"
+       id="rect109410" />
+    <g
+       transform="matrix(34.395833,0,0,34.395833,198.92063,208.33955)"
+       id="g109426">
+      <path
+         style="fill:#ff0000"
+         inkscape:connector-curvature="0"
+         d="M 1,0 A 1,1 0 0 0 -1,0"
+         id="path109412" />
+      <path
+         style="fill:#00ff00"
+         inkscape:connector-curvature="0"
+         d="M -1,0 A 1,1 0 0 0 0,1.7320508"
+         id="path109414" />
+      <path
+         style="fill:#0000ff"
+         inkscape:connector-curvature="0"
+         d="M 0,1.7320508 A 1,1 0 0 0 1,0"
+         id="path109416" />
+      <path
+         style="fill:#ffff00"
+         inkscape:connector-curvature="0"
+         d="m 0,0 a 1,1 0 0 0 -1,0 1,1 0 0 0 0.5,0.8660254"
+         id="path109418" />
+      <path
+         style="fill:#00ffff"
+         inkscape:connector-curvature="0"
+         d="M -0.5,0.8660254 A 1,1 0 0 0 0,1.7320508 1,1 0 0 0 0.5,0.8660254"
+         id="path109420" />
+      <path
+         style="fill:#ff00ff"
+         inkscape:connector-curvature="0"
+         d="M 0.5,0.8660254 A 1,1 0 0 0 1,0 1,1 0 0 0 0,0"
+         id="path109422" />
+      <path
+         style="fill:#ffffff"
+         inkscape:connector-curvature="0"
+         d="m 0,0 a 1,1 0 0 0 -0.5,0.8660254 1,1 0 0 0 1,0 A 1,1 0 0 0 0,0"
+         id="path109424" />
+    </g>
+  </g>
+</svg>
