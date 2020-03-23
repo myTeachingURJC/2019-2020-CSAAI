@@ -12,9 +12,9 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 240.71801 106.19522"
-   height="106.19522mm"
-   width="240.71799mm"
+   viewBox="0 0 189.44709 65.751701"
+   height="65.751701mm"
+   width="189.44707mm"
    inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-01.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -19079,8 +19079,8 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="280.28328"
-     inkscape:cx="582.69307"
+     inkscape:cy="174.36634"
+     inkscape:cx="479.18335"
      inkscape:zoom="0.8308398"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -19101,7 +19101,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-84.652824,-49.28648)"
+     transform="translate(-112.03977,-61.706142)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Back"
@@ -19132,12 +19132,12 @@
          id="tspan1638"
          sodipodi:role="line" /></text>
     <rect
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.49515435;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.4951543, 1.98059164;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.34564582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.34564576, 1.38256525;stroke-dashoffset:0;stroke-opacity:1"
        id="rect14226-0"
-       width="240.71799"
-       height="106.19522"
-       x="84.652824"
-       y="49.28648"
+       width="189.44707"
+       height="65.751701"
+       x="112.03977"
+       y="61.706142"
        ry="0.53845394"
        inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-05.png"
        inkscape:export-xdpi="90"
@@ -19145,7 +19145,7 @@
        rx="0.53845388" />
   </g>
   <g
-     transform="translate(-84.652824,-49.28648)"
+     transform="translate(-112.03977,-61.706142)"
      inkscape:label="Layer 2"
      id="layer2"
      inkscape:groupmode="layer"
