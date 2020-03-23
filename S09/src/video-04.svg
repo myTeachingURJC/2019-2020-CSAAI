@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="105.45726mm"
+   height="65.767853mm"
+   viewBox="0 0 105.45726 65.767853"
+   version="1.1"
+   id="svg92566"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="video-04.svg">
+  <defs
+     id="defs92560">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path99169"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path99169-7"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-5-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path99169-7-7"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <linearGradient
+       id="linearGradient26491">
+      <stop
+         id="stop26493"
+         offset="0"
+         style="stop-color:#efefef;stop-opacity:1;" />
+      <stop
+         id="stop26495"
+         offset="1"
+         style="stop-color:#efefef;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient25510">
+      <stop
+         style="stop-color:#efefef;stop-opacity:0;"
+         offset="0"
+         id="stop25512" />
+      <stop
+         style="stop-color:#efefef;stop-opacity:1;"
+         offset="1"
+         id="stop25514" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient28439">
+      <stop
+         id="stop28441"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop28443"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient9304">
+      <stop
+         style="stop-color:#fdffff;stop-opacity:1;"
+         offset="0"
+         id="stop9306" />
+      <stop
+         style="stop-color:#f2f2f2;stop-opacity:1;"
+         offset="1"
+         id="stop9308" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="239.90533"
+     inkscape:cy="150.81112"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="1107"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-others="true"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata92563">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(-17.062653,-195.97044)"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect101425"
+       width="105.45726"
+       height="65.767853"
+       x="17.062653"
+       y="195.97044"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/video-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-17.062653,-195.97044)">
+    <path
+       id="path109167-9-1-2"
+       style="display:inline;fill:#00ff00;stroke:#000000;stroke-width:0.26458341px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 58.487539,199.50338 c 10.781673,-3.40874 19.926272,-1.65704 27.766476,2.37325 l -15.950197,26.59266 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="1.7032557"
+       inkscape:transform-center-y="-13.856729"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/video-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path109167-9-1-2-5"
+       style="display:inline;fill:#00ffff;stroke:#000000;stroke-width:0.26458341px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 86.022778,201.70922 c 9.51397,6.11133 13.378471,13.69499 15.291692,22.30031 l -30.95262,3.94863 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="-15.821503"
+       inkscape:transform-center-y="-13.097098"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/video-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path109167-9-1-2-5-9"
+       style="display:inline;fill:#4c0eba;fill-opacity:1;stroke:#000000;stroke-width:0.26458341px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 101.31447,224.00953 c 0.95404,11.26738 -3.100036,19.40797 -8.755957,26.16982 L 70.252796,228.04723 Z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="-15.247324"
+       inkscape:transform-center-y="9.3127324"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/video-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path109167-9-1-2-5-9-2"
+       style="display:inline;fill:#ab02a1;fill-opacity:1;stroke:#000000;stroke-width:0.26458341px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 92.526501,250.14759 c -8.275914,7.7054 -15.104171,9.63506 -23.915289,9.35893 l 1.56573,-31.30494 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="-8.9255556"
+       inkscape:transform-center-y="15.504286"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/video-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path109167-9-1-2-5-9-2-0"
+       style="display:inline;fill:#990027;fill-opacity:1;stroke:#000000;stroke-width:0.26458341px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 68.627597,259.48623 C 57.370119,258.42175 50.080043,252.98488 44.431539,246.21684 l 25.745403,-18.01526 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="13.071195"
+       inkscape:transform-center-y="15.247538"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/video-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path109167-9-1-2-5-9-2-0-3"
+       style="display:inline;fill:#8c3f00;fill-opacity:1;stroke:#000000;stroke-width:0.26458341px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 44.582298,246.22356 c -6.012999,-9.57643 -6.141725,-18.66973 -4.214814,-27.272 l 29.969608,9.44447 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="15.344485"
+       inkscape:transform-center-y="3.7936328"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/video-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path109167-9-1-2-5-9-2-0-3-4"
+       style="display:inline;fill:#948f00;fill-opacity:1;stroke:#000000;stroke-width:0.26458341px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 40.078684,219.64544 C 43.75019,208.95039 50.695999,203.37269 58.598732,199.46643 L 70.13032,228.47887 Z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="14.59552"
+       inkscape:transform-center-y="-14.724856"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/video-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path109389"
+       cx="70.115654"
+       cy="228.19597"
+       r="1.4699823"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/video-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
