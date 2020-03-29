@@ -12,8 +12,8 @@
    inkscape:export-xdpi="90"
    inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S09/audio-01.png"
    width="207.59888mm"
-   height="131.41541mm"
-   viewBox="0 0 207.59889 131.4154"
+   height="103.29158mm"
+   viewBox="0 0 207.59889 103.29158"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -38225,8 +38225,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.67736161"
-     inkscape:cx="284.52418"
-     inkscape:cy="187.73466"
+     inkscape:cx="283.04787"
+     inkscape:cy="196.59256"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38260,7 +38260,7 @@
      inkscape:label="Back"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-18.733076,-24.066298)">
+     transform="translate(-18.733076,-33.440907)">
     <g
        transform="matrix(0.26458333,0,0,0.26458333,57.431444,-70.794624)"
        style="display:none"
@@ -38292,19 +38292,19 @@
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2019-2020-CSAAI/S10/intro-02.png"
        ry="0.53845394"
-       y="24.066298"
+       y="33.440907"
        x="18.733076"
-       height="131.41541"
+       height="103.29158"
        width="207.59888"
        id="rect14226-0"
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.51152807;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.51152803, 2.04608573;stroke-dashoffset:0;stroke-opacity:1" />
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.45350158;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.45350153, 1.81398272;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
   <g
      style="display:inline"
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(-18.733076,-24.066298)">
+     transform="translate(-18.733076,-33.440907)">
     <image
        y="69.15538"
        x="74.667473"
